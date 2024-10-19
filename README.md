@@ -1,8 +1,13 @@
+
+add first task
+
 ![Screenshot 2024-10-19 150536](https://github.com/user-attachments/assets/b4e304be-929d-4ffe-89ce-0ab466a1e0e5)
 
+add second task and more 
 
 ![Screenshot 2024-10-19 150619](https://github.com/user-attachments/assets/f13b1416-63a9-4613-947b-6b8bb4ed504b)
 
+now delete the last task by click on delete icon/button
 
 ![Screenshot 2024-10-19 150655](https://github.com/user-attachments/assets/5c0283e5-559b-4941-90ff-2ba5152f1f48)
 
