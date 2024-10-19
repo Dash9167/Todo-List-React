@@ -1,0 +1,61 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 100%;
+    background-color: aqua;
+    animation: bgchange infinite 5s ease-in-out;
+}
+@keyframes bgchange {
+    0%{
+        background-color: #0072ff;
+    }
+    30%{
+        background-color: #4029ff;
+    }
+    60%{
+        background-color: rgb(127, 234, 255);
+    }
+   100%{
+        background-color: #00c6ff;
+    }
+}
+.conatiner{
+  
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+   
+    
+}
+
+@media (max-width:786px) {
+    .conatiner input{
+        height: 1rem;
+    }
+}
+.conatiner input{
+    height: 2rem;
+    width: 50%;
+    padding: 15px;
+    border-radius: 50px;
+    font-size: 22px;
+}
+.conatiner input:focus{
+    outline: none;
+    box-shadow: 0px 0px 5px rgb(44, 41, 41);
+}
+.conatiner button{
+    padding: 10px 40px;
+    border-radius: 50px;
+    transition: 1s;
+    font-size: larger;
+    cursor: pointer;
+
+}
+.conatiner button:hover{
+    color: aliceblue;
+    background-color: blue;
+}

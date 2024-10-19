@@ -1,0 +1,39 @@
+.nav{
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    background-color: rgb(30, 29, 29);
+    color: white;
+   align-items: center;
+    justify-content: space-between;
+    
+}
+.todo{
+padding:  0 5rem;
+}& span{
+    color: green;
+    margin-left: 5px;
+}
+.menu{
+    
+    margin-right: 3rem;
+
+
+}
+.menu ul {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+  
+  
+}
+.menu li{
+    margin-right: 1rem;
+    
+    transition: .5s;
+    cursor: pointer;
+    font-size: large;
+}
+.menu li:hover{
+    color: blue;
+}
