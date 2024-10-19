@@ -15,9 +15,11 @@
 
 ![Screenshot 2024-10-19 150750](https://github.com/user-attachments/assets/2338fc25-6241-4ed2-af07-0df63c8f9552)
 
+complete the by click on the notebook icon 
 
 ![Screenshot 2024-10-19 150822](https://github.com/user-attachments/assets/96b92471-dcf0-4c63-9ea0-273573d7ed28)
 
+completed Task coveret into green backgroung
 
 ![Screenshot 2024-10-19 150838](https://github.com/user-attachments/assets/90ad03eb-6b61-47dc-8362-83edebfac4bb)
 
